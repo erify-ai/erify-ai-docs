@@ -1,55 +1,58 @@
-# GitHub Docs <!-- omit in toc -->
-[![Build GitHub Docs On Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new/?repo=github)
+# 📖 ERIFY™ Docs  
 
-This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
+Welcome to the **ERIFY™ Documentation Hub** — the living flame of knowledge that fuels our global ecosystem.  
 
-GitHub's Docs team works on pre-production content in a private repo that regularly syncs with this public repo.
+✨ From the ashes to the stars | #4PW  
 
-Use the table of contents icon <img alt="Table of contents icon" src="./contributing/images/table-of-contents.png" width="25" height="25" /> on the top right corner of this document to navigate to a specific section quickly.
+---
 
-## Contributing
+## 👑 Purpose  
+This repo is the **official documentation hub for ERIFY™**, adapted from the GitHub Docs framework and infused with the Crown Values:  
 
-We accept different types of contributions, including some that don't require you to write a single line of code. For detailed instructions on how to get started with our project, see [About contributing to GitHub Docs](https://docs.github.com/en/contributing/collaborating-on-github-docs/about-contributing-to-github-docs).
+- Innovation 👑  
+- Prosperity 💎  
+- Legacy 🌍  
+- Trust ⚡  
 
-### Ways to contribute
+---
 
-On the GitHub Docs site, you can contribute by clicking the **Make a contribution** button at the bottom of the page to open a pull request for quick fixes like typos, updates, or link fixes.
+## 🌍 Structure  
+- **Guides/** → Tutorials and how-tos for contributors and builders.  
+- **References/** → API docs, configs, and ERIFY™ technical specs.  
+- **Crown/** → ERIFY™ principles, mottos, and flame archives.  
 
-You can also contribute by creating a local environment or opening a Codespace. For more information, see [Setting up your environment to work on GitHub Docs](https://docs.github.com/en/contributing/setting-up-your-environment-to-work-on-github-docs).
+---
 
-<img alt="Contribution call-to-action" src="./contributing/images/contribution_cta.png" width="400">
+## 🚀 Quick Start  
 
-For more complex contributions, please [open an issue in the docs-content repo](https://github.com/github/docs-content/issues/new/choose) describing the changes you'd like to see.
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/erify-ai/erify-ai-docs.git
+   cd erify-ai-docs
 
-If you're looking for a way to contribute, you can scan through our [help wanted board](https://github.com/github/docs/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22) to find open issues already approved for work.
+	2. Install dependencies (if using the GitHub Docs framework):
 
-### And that's it!
+npm install
 
-If you're having trouble with your GitHub account, contact [Support](https://support.github.com).
 
-That's how you can easily become a member of the GitHub Docs community. :sparkles:
+	3. Run locally:
 
-## READMEs
+npm start
 
-In addition to the README you're reading right now, this repo includes other READMEs that describe the purpose of each subdirectory in more detail:
 
-- [content/README.md](content/README.md)
-- [content/graphql/README.md](content/graphql/README.md)
-- [content/rest/README.md](content/rest/README.md)
-- [contributing/README.md](contributing/README.md)
-- [data/README.md](data/README.md)
-- [data/reusables/README.md](data/reusables/README.md)
-- [data/variables/README.md](data/variables/README.md)
-- [src/README.md](src/README.md)
 
-## License
+Docs will be live at http://localhost:4000.
 
-The GitHub product documentation in the assets, content, and data folders are licensed under a [CC-BY license](LICENSE).
+⸻
 
-All other code in this repository is licensed under the [MIT license](LICENSE-CODE).
+🛠 Contributing
 
-When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
+See CONTRIBUTING.md.
+All PRs must follow the Pull Request Template.
 
-## Thanks :purple_heart:
+⸻
 
-Thanks for all your contributions and efforts towards improving the GitHub documentation. We thank you for being part of our :sparkles: community :sparkles:!
+⚡ Motto:
+“From the ashes to the stars ✨ | #4PW”
+
+---
